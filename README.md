@@ -7,8 +7,13 @@
 * PROXY.md
   * การกำหนด PROXY
 * go-101-git-golangbook
-  * git and prepare repository for golang book
+  * Git and prepare repository for golang book
 
 ## 7 Feb 2018: Read golang book and work with git #1
 * go-101-git-golangbook
-  * golang type
+  * Golang type
+
+## 8 Feb 2018: Read golang book and work with git #2
+* go-101-git-golangbook
+  * Golang variables 
+  * Exercise chapter 4
