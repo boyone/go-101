@@ -29,3 +29,13 @@
 * Functions, Arrays, Slides and Map
 * Chapter 6
 * Chapter 7
+
+## 16 Feb 2018
+* Execrise: Console Weather
+
+## 21 Feb 2018
+* Read golang book and work with git #5
+* Chapter 8 Pointer
+* Chapter 9 Struct type, Specific type
+* Chapter 10 Method
+* Chapter 11 Interface
