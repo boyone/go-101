@@ -31,7 +31,7 @@
 * Chapter 7
 
 ## 16 Feb 2018
-* Execrise: Console Weather
+* Exam #1: Console Weather
 
 ## 21 Feb 2018
 * Read golang book and work with git #5
@@ -39,3 +39,6 @@
 * Chapter 9 Struct type, Specific type
 * Chapter 10 Method
 * Chapter 11 Interface
+
+## 23 Feb 2018
+* Exam #2: Vending Machine
