@@ -42,3 +42,10 @@
 
 ## 23 Feb 2018
 * Exam #2: Vending Machine
+
+## 26 Feb 2018
+* The return of vending machine
+
+## 28 Feb 2018
+* Package
+* TDD
