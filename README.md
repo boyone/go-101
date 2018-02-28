@@ -49,3 +49,9 @@
 ## 28 Feb 2018
 * Package
 * TDD
+* DOJO FIZZBUZZ
+
+## 2 Mar 2018
+* Go to http://cyber-dojo.org enter practices id `[รอยืนยันวันศุกร์ที่ 2 Mar 2018 เวลา 09:30 น.]`
+* เวลาในการทำโจทย์ 09:30-10:30 น.
+* Capture รูป Avatar ตั้งชื่อรูปว่า exam3 ใส่ใน folder exercise แล้ว up ขึ้น git เพื่อระบุตัวตน
