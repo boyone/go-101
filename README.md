@@ -39,3 +39,21 @@
 * Chapter 9 Struct type, Specific type
 * Chapter 10 Method
 * Chapter 11 Interface
+
+## 2 Mar 2018
+* Exercise: Combined Number
+  * Go to cyber-dojo.org enter a practice id F9F98C
+  * Exercise time: 9:30 - 10:30
+  * Capture your avatar, name it call exam3 and save in exercise folder then push to github  
+  * Please implement both test and production code
+```
+Write a function accepting a list of non negative integers, 
+and returning their largest possible combined number
+as a string. For example
+
+given [50, 2, 1, 9] it returns "95021"    (9 + 50 + 2 + 1)
+given [5, 50, 56]   it returns "56550"    (56 + 5 + 50)
+given 420, 42, 423] it returns "42423420" (42 + 423 + 420)
+
+Source [https://blog.svpino.com/about]
+```
