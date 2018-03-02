@@ -31,7 +31,7 @@
 * Chapter 7
 
 ## 16 Feb 2018
-* Execrise: Console Weather
+* Exam #1: Console Weather
 
 ## 21 Feb 2018
 * Read golang book and work with git #5
@@ -40,13 +40,25 @@
 * Chapter 10 Method
 * Chapter 11 Interface
 
+## 23 Feb 2018
+* Exam #2: Vending Machine
+
+## 26 Feb 2018
+* The return of vending machine
+
+## 28 Feb 2018
+* Package
+* TDD
+* DOJO FIZZBUZZ
+
 ## 2 Mar 2018
-* Exercise: Combined Number
-  * Go to cyber-dojo.org enter a practice id F9F98C
-  * Exercise time: 9:30 - 10:30
-  * Capture your avatar, name it call exam3 and save in exercise folder then push to github  
-  * Please implement both test and production code
+* Go to http://cyber-dojo.org enter practices id `[F9F98C]`
+* เวลาในการทำโจทย์ 09:30-10:30 น.
+* ให้ implement ทั้ง test และ production code
+* Capture รูป Avatar ตั้งชื่อรูปว่า exam3 ใส่ใน folder exercise แล้ว push ขึ้น github เพื่อระบุตัวตน
 ```
+Combined Number
+
 Write a function accepting a list of non negative integers, 
 and returning their largest possible combined number
 as a string. For example
