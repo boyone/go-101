@@ -47,9 +47,8 @@
 * The return of vending machine
 
 ## 28 Feb 2018
-* Package
-* TDD
-* DOJO FIZZBUZZ
+* Go Package
+* Introduction TDD (FIZZBUZZ)
 
 ## 2 Mar 2018
 * Go to http://cyber-dojo.org enter practices id `[F9F98C]`
@@ -69,3 +68,7 @@ given [420, 42, 423] it returns "42423420" (42 + 423 + 420)
 
 Source [https://blog.svpino.com/about]
 ```
+
+## 5 Mar 2018
+* Go Functional
+* Go Routine
