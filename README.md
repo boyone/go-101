@@ -51,6 +51,7 @@
 * Introduction TDD (FIZZBUZZ)
 
 ## 2 Mar 2018
+* Exam #3: Combined Number
 * Go to http://cyber-dojo.org enter practices id `[F9F98C]`
 * เวลาในการทำโจทย์ 09:30-10:30 น.
 * ให้ implement ทั้ง test และ production code
@@ -75,3 +76,10 @@ Source [https://blog.svpino.com/about]
 
 ## 7 Mar 2018
 * Go Channel
+
+## 9 Mar 2018
+* Exam #4: Speedy Espresso
+
+## 12 Mar 2018
+* Go HTTP
+* Go Test
