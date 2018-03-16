@@ -1,0 +1,82 @@
+-  request:
+      method: GET
+      url: /api/v1/weather/bangkok
+ 
+   response:
+      status: 200
+      latency: 700
+      headers:
+         content-type: application/json
+      file: ./city/bangkok.json
+
+-  request:
+      method: GET
+      url: /api/v1/weather/hobart
+ 
+   response:
+      status: 200
+      latency: 700
+      headers:
+         content-type: application/json
+      file: ./city/hobart.json
+
+-  request:
+      method: GET
+      url: /api/v1/weather/kupang
+ 
+   response:
+      status: 200
+      latency: 700
+      headers:
+         content-type: application/json
+      file: ./city/kupang.json
+
+-  request:
+      method: GET
+      url: /api/v1/weather/nairobi
+ 
+   response:
+      status: 200
+      latency: 700
+      headers:
+         content-type: application/json
+      file: ./city/nairobi.json
+
+
+-  request:
+      method: GET
+      url: /api/v1/weather/newyork
+ 
+   response:
+      status: 200
+      latency: 700
+      headers:
+         content-type: application/json
+      file: ./city/newyork.json
+
+-  request:
+      method: GET
+      url: /api/v1/weather/xxx
+ 
+   response:
+      status: 200
+      headers:
+         content-type: text/html
+      body: New York<br>0c broken clouds<br>
+            Kupang<br>20c broken clouds<br>
+            Bangkok<br>33c few clouds<br>
+            Nairobi<br>16c moderate rain<br>
+            Hobart<br>14c shower rain<br>
+
+-  request:
+      method: GET
+      url: /api/v1/weather/digit
+ 
+   response:
+      status: 200
+      headers:
+         content-type: text/html
+      body: ' _  _<br>
+              _| _| <br>
+             |_  _| c<br>
+             Bangkok  few clouds<br>'

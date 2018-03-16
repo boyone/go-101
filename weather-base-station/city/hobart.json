@@ -1,0 +1,40 @@
+{
+    "coord": {
+        "lon": 147.33,
+        "lat": -42.88
+    },
+    "weather": [{
+        "id": 521,
+        "main": "Rain",
+        "description": "shower rain",
+        "icon": "09d"
+    }],
+    "base": "stations",
+    "main": {
+        "temp": 14,
+        "pressure": 1014,
+        "humidity": 76,
+        "temp_min": 14,
+        "temp_max": 14
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 7.7,
+        "deg": 190
+    },
+    "clouds": {
+        "all": 75
+    },
+    "dt": 1521097200,
+    "sys": {
+        "type": 1,
+        "id": 8195,
+        "message": 0.0066,
+        "country": "AU",
+        "sunrise": 1521058021,
+        "sunset": 1521102685
+    },
+    "id": 2163355,
+    "name": "Hobart",
+    "cod": 200
+}

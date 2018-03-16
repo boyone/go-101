@@ -1,0 +1,39 @@
+{
+    "coord": {
+        "lon": 123.6,
+        "lat": -10.16
+    },
+    "weather": [{
+        "id": 800,
+        "main": "Clear",
+        "description": "clear sky",
+        "icon": "01n"
+    }],
+    "base": "stations",
+    "main": {
+        "temp": 28.61,
+        "pressure": 1012.77,
+        "humidity": 91,
+        "temp_min": 28.61,
+        "temp_max": 28.61,
+        "sea_level": 1023.06,
+        "grnd_level": 1012.77
+    },
+    "wind": {
+        "speed": 0.54,
+        "deg": 354.501
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1521156991,
+    "sys": {
+        "message": 0.007,
+        "country": "ID",
+        "sunrise": 1521064179,
+        "sunset": 1521107930
+    },
+    "id": 2057087,
+    "name": "Kupang",
+    "cod": 200
+}

@@ -1,0 +1,39 @@
+{
+    "coord": {
+        "lon": 36.82,
+        "lat": -1.28
+    },
+    "weather": [{
+        "id": 501,
+        "main": "Rain",
+        "description": "moderate rain",
+        "icon": "10d"
+    }],
+    "base": "stations",
+    "main": {
+        "temp": 16,
+        "pressure": 1023,
+        "humidity": 93,
+        "temp_min": 16,
+        "temp_max": 16
+    },
+    "visibility": 4000,
+    "wind": {
+        "speed": 1
+    },
+    "clouds": {
+        "all": 90
+    },
+    "dt": 1521097200,
+    "sys": {
+        "type": 1,
+        "id": 6409,
+        "message": 0.008,
+        "country": "KE",
+        "sunrise": 1521085086,
+        "sunset": 1521128699
+    },
+    "id": 184745,
+    "name": "Nairobi",
+    "cod": 200
+}
