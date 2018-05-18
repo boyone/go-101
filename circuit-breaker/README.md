@@ -32,8 +32,9 @@ mvn package
 java -jar target/hystrixDashboard-0.0.1-SNAPSHOT.jar
 ```
 
-## Go To: http://localhost:8080/hystrix
+## Open Hystrix-Dashboard
 
+* Go To: http://localhost:8080/hystrix
 * Add Single Hystrix App: http://localhost:8881  
 * Click Monitor Stream
 
